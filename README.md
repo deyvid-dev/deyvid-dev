@@ -62,6 +62,8 @@
 
 ### Top Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deyvid-dev&repo=Projeto-Blogs-API&theme=react)](https://github.com/deyvid-dev/Projeto-Blogs-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deyvid-dev&repo=Projeto-Car-Shop&theme=react)](https://github.com/deyvid-dev/Projeto-Car-Shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deyvid-dev&repo=Mysql-All-for-One&theme=react)](https://github.com/deyvid-dev/Mysql-All-for-One)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deyvid-dev&repo=desafio-frontend-klever&theme=react)](https://github.com/deyvid-dev/desafio-frontend-klever)
 
